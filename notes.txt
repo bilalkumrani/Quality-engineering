@@ -1,0 +1,222 @@
+
+
+Quality is stand alone word
+
+ - it is implicit (if we want to refer to bad we shoul explicitly say bad quality)
+ - Highly subjective term (everyone has its own defination)
+ - it is dynamic (evolves with respect to time, defination can be changed according to product)
+ 
+ -> A degree to which a set of inherent characterstics fullfil requirments is called quality.
+ 
+ Degree:
+ Quality is continum begining with 0 and moving towards infinity.
+ 
+ Characterstics:
+ capablity of deliverable or robustness of a product.
+ 
+ Requirments:
+ (i) stated by a customer in a made to order scenario.
+ (ii) by product specification in comercial of the shelf scenario.
+ 
+ joseph moses : fitness for use.
+ 
+ 
+ 
+ Different perspectives to see quality
+ 1- Customer
+ 	product:
+ 	(defect free, reliable, easy to use, fault tolerance, safe)
+ 	service:
+ 	(easy to obtain, pleasent service)
+ 
+ 2- Producers
+ 	product:
+ 	(product should fullfil specification of user)
+ 	service:
+ 	(meet deadline, deliverd on time)
+ 
+ 
+ 3- Govt
+ 	product:
+	(safety, insurance)
+
+ 
+ 4- Industry association
+ 	Product:
+ 	(industry reputation, protecting from frauds, address queries of consumer and govts)
+ 	
+ 	
+ 	
+Specification:
+details on which we are going to develop product
+
+Explicit specification:
+		service provider selects some specification and give to user.
+
+Implicit specification:
+		Those specification which are important already understood things by common sense.
+		
+		
+
+some specifications are industry standards which often govts and iso IEEE orgs define.
+
+These minumum things should be provided to users:
+- use of product
+- limitations of product
+- process by which product is made
+- security and safety 
+
+
+Provider must consider these things:
+- define specification if not available.
+- complete the best specification that we defined.
+- ensure specifications.
+- Now make this product available to the customers.
+
+
+
+__________________________________________________________________________________________
+Quality and reliablity:
+
+Reliablity:
+capablity to function at the defined level of performance for the duration of its life.
+(we have to define what should be the level of performance, normal or peak performance)
+
+Duration of life of software:
+	 - Initial life: (till product's waranty)
+	 - Operating life: (with maintenance)
+	 
+Reliablity also known as mean time between failures and mean time to repair.
+
+concept of wear and tear becomes the part of software because of change in configurations
+of software during its life, because of config errors arise and software can tear.
+__________________________________________________________________________________________
+
+Evolution of quality:
+
+initialy we just consider state of product as a quality but after inspection phase introduced which
+insures the quality of the product.
+started taking feedback.
+
+(quality control circles introduced, 0 defects products made, right first time)
+
+__________________________________________________________________________________________
+
+Quality Gurus
+
+William Edwards Deming - (Quality Guru) :
+He said if organization will focus on quality then quality will increased but cost will fall.
+if we increase quality we will have to compromise on budgetS.
+
+14 points:
+
+1- contancy of purpose (Purpose should be same)
+2- Adopt new philosophy
+3- Statistical inferencing (quality calculation should be statistical)
+4- Price ( there should be balance bw price and quality)
+5- Improve continously (find problems and solve them)
+6- on the job training (give learning oportunities to employees)
+7- supervision (leadership instead of supervision)
+8- Fear should not be motivation of workers
+9- Less bariers
+10- Methods Use of good methods for development to get good results
+11- Eleminate qouta.
+12- Pride and appriciate workers
+13- Retraining and education (educate to increase sense of responsiblity and ownership of workers)
+14- Management to implement these points
+
+Remember:
+(CISMM) contancy, Improve, Methods, Management
+
+
+Four bariers which can stop business from success (Deming)
+1- Neglecting long term planning
+2- Relying on technology to solve problem
+3- seeking proven methods rather developing new one
+4- Hiding behind the excuse that our problems are different
+
+
+
+Business success cycle (Deming)
+
+1- Plan the action
+2- Do caryout the plan
+3- Check the results of actions
+4- Act (what modifications are needed)
+
+Remember:
+(PDCA)
+
+
+ 
+
+Joseph Moses Juran – Quality Guru
+
+he said:
+
+there are three things in quality:
+
+1- Quality planning
+	identify customers and their needs
+	optimise product
+	specification should be upto date and dsign should be good
+2- Quality Improvement
+	define a process that produce a product
+3- Quality control
+	Test and proof that process we selected can give us quality product
+	then implement that process
+
+
+
+
+Philip Bayard Crosby – (Quality Guru) 
+ 
+ he says: 
+ Do it right in first time
+ And there should be zero defects
+ 
+ Four principles of quality by croby
+ 
+ 1- if product fullfils the requirment then it is quality product
+ 2- prevention during the process of product development
+ 3- performance standard product should meet it completely
+ 4- 
+ 
+ 
+ Five points of business success (crosby)
+ 
+ 1- people do things right in first time
+ 2- use change as a advantage of organization
+ 3- consistent growth
+ 4- new products should developed when necesary
+ 5- every one shoul work hapily in organisation
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
