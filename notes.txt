@@ -2,7 +2,7 @@
 
 Quality is stand alone word
 
- - it is implicit (if we want to refer to bad we shoul explicitly say bad quality)
+ - it is implicit (if we want to refer to bad we have to explicitly say bad quality)
  - Highly subjective term (everyone has its own defination)
  - it is dynamic (evolves with respect to time, defination can be changed according to product)
  
@@ -175,7 +175,7 @@ Philip Bayard Crosby – (Quality Guru)
  Do it right in first time
  And there should be zero defects
  
- Four principles of quality by croby
+ Four principles of quality by crosby
  
  1- if product fullfils the requirment then it is quality product
  2- prevention during the process of product development
@@ -189,7 +189,7 @@ Philip Bayard Crosby – (Quality Guru)
  2- use change as a advantage of organization
  3- consistent growth
  4- new products should developed when necesary
- 5- every one shoul work hapily in organisation
+ 5- every one should work hapily in organisation
  
  __________________________________________________________________________________________
  
@@ -204,7 +204,7 @@ Philip Bayard Crosby – (Quality Guru)
  - Organization process should be visible, rpeatable and measurable.
  - We believe products will function as they are designed to function.
  - Study the way a user uses a product.
- - Should provide aesthetic value alogwith usablity.
+ - Should provide aesthetic value alognwith usablity.
  
  __________________________________________________________________________________________
  
@@ -283,16 +283,35 @@ Are We giving Adequate Importance to Quality in Organizations?
  -A “watchdog,” “in-house customer representative,” and “eyes and ears” of management in matters of product and deliverable quality of the organization would exist, raising its voice when quality trends show a downturn
  
  
+ __________________________________________________________________________________________
+ 
+ 		Software quality assurance activites
+- Defect prevention
+
+- Defect identification
+
+- Defect removal
+
+- Defect contentment:
+	To catch and fix defects before they escape into later phases.
+
+ 
+ Remember (PIRC)
  
  
  
  
  
  
- 
- 
- 
- 
+ Characterstics of quality software:
+- maintainability
+- correctness
+- reusability
+- reliability
+- portability
+- efficiency.
+
+ Remember (MPERRC)
  
  
  
